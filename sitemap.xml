@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://google.com/index.html</loc>
+    <lastmod>2021-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://google.com/images/368px-google_2015_logosvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://google.com/images/unnamed.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://google.com/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%201345x440.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
